@@ -25,6 +25,6 @@ def now_serving(array)
       puts "Currently serving #{name}."
     end
   else
-    puts "There is nobody in line waiting to served!"
+    puts "There is nobody waiting to served!"
   end
-end 
+end
